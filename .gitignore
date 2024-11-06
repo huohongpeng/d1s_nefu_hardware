@@ -1,0 +1,7 @@
+*.jrl
+*.log*
+*.tag
+*.OBK
+project/*.png
+project/*.DBK
+

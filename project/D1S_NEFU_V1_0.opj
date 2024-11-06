@@ -1,0 +1,49 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[11/06/24]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\sch_lib\nefu.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\d1s_nefu_v1_0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\d1s_nefu_v1_0.dsn")
+      (Path "Design Resources" ".\d1s_nefu_v1_0.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\d1s_nefu_v1_0.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\sch_lib\nefu.olb")
+      (Select "Design Resources" "Library" ".\sch_lib\nefu.olb" "D1s"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 635 0 722"))
+      (Tab 0)))
+  (MPSSessionName "XJ0046")
+  (PartMRUSelector
+    (D1s
+      (FullPartName "D1sH.Normal")
+      (LibraryName "D:\VCS\D1S_NEFU\PROJECT\SCH_LIB\NEFU.OLB")
+      (DeviceIndex "7"))))
