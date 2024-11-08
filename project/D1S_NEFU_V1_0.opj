@@ -33,14 +33,20 @@
       (Path "Design Resources" ".\d1s_nefu_v1_0.dsn" "SCHEMATIC1")
       (Path "Design Resources" ".\d1s_nefu_v1_0.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\sch_lib\nefu.olb")
-      (Select "Design Resources" "Library" ".\sch_lib\nefu.olb" "D1s"))
+      (Path "Design Resources" "Library" ".\sch_lib\nefu.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 635 0 722"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 722"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 744"))
+      (Path "D:\VCS\D1S_NEFU\PROJECT\SCH_LIB\NEFU.OLB")
+      (Package "RTL8201F")
+      (PartType "1")))
   (MPSSessionName "XJ0046")
   (PartMRUSelector
     (D1s
