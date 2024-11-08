@@ -6,3 +6,4 @@
 *.png
 *.DBK
 *.col,*
+pcb_lib/signoise.run/
