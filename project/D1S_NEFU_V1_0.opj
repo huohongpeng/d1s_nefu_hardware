@@ -1,6 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[11/06/24]")
+  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[11/15/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -13,9 +13,40 @@
     (CompileFileAddedOrDeleted "x")
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
-    (NoModify))
+    (NoModify)
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (FLDSTUFF_Scope "0")
+    (FLDSTUFF_Action "0")
+    (FLDSTUFF_Report_File ".\d1s_nefu_v1_0.RPT")
+    (FLDSTUFF_Update_File ".\d1s_nefu_v1_0.UPD")
+    (FLDSTUFF__Uppercase_Result_Property "FALSE")
+    (FLDSTUFF_Uppercase_Update_Property "FALSE")
+    (FLDSTUFF_Uppercase_Unconditionally "FALSE")
+    (FLDSTUFF_Visibility "0")
+    (FLDSTUFF_inst_or_occurrence "1")
+    (FLDSTUFF_Create_Report_File "FALSE")
+    (IREFReportFile "D:\VCS\D1S_NEFU\PROJECT\D1S_NEFU_V1_0.csv")
+    (IREFViewOutput "0")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Layout")
-  (Folder "Outputs")
+  (Folder "Outputs"
+    (File ".\d1s_nefu_v1_0.csv"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -34,29 +65,59 @@
       (Path "Design Resources" ".\d1s_nefu_v1_0.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\sch_lib\nefu.olb")
-      (Select "Design Resources" "Library" ".\sch_lib\nefu.olb" "TYPEA_DIP"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 309 0 722"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 347 0 722"))
       (Tab 0))
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1565 28 744"))
+        (Placement "44 0 1 -1 -1 -8 -31 5 1048 28 744"))
       (Path "D:\VCS\D1S_NEFU\PROJECT\SCH_LIB\NEFU.OLB")
-      (Package "TYPEA_DIP")
-      (PartType "1"))
+      (Package "TITLEBLOCKNEFU")
+      (PartType "0"))
     (Doc
-      (Type "COrPrmBrowserDoc")
+      (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1565 28 744"))
-      (Path "D:\VCS\D1S_NEFU\PROJECT\SCH_LIB\NEFU.OLB")
-      (Package "TYPEC_16PIN")
-      (PartType "1")))
+        (Placement "44 0 1 -1 -1 -1 -1 5 1048 28 744")
+        (Scroll "-31 -8")
+        (Zoom "82")
+        (Occurrence "/"))
+      (Path "D:\VCS\D1S_NEFU\PROJECT\D1S_NEFU_V1_0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "00 Revision History"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1048 28 744")
+        (Scroll "-31 -8")
+        (Zoom "82")
+        (Occurrence "/"))
+      (Path "D:\VCS\D1S_NEFU\PROJECT\D1S_NEFU_V1_0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "03 POWER TREE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1048 28 744")
+        (Scroll "-31 -8")
+        (Zoom "82")
+        (Occurrence "/"))
+      (Path "D:\VCS\D1S_NEFU\PROJECT\D1S_NEFU_V1_0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02 Block Diagram")))
   (MPSSessionName "XJ0046")
   (PartMRUSelector
+    (SY8089
+      (FullPartName "SY8089.Normal")
+      (LibraryName "D:\VCS\D1S_NEFU\PROJECT\SCH_LIB\NEFU.OLB")
+      (DeviceIndex "0"))
+    (TitleBlockNefu
+      (LibraryName "D:\VCS\D1S_NEFU\PROJECT\SCH_LIB\NEFU.OLB")
+      (DeviceIndex "0"))
     (CRYSTAL1-4/SM
       (FullPartName "CRYSTAL1-4/SM.Normal")
       (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -64,10 +125,6 @@
     (R
       (FullPartName "R.Normal")
       (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (SY8089
-      (FullPartName "SY8089.Normal")
-      (LibraryName "D:\VCS\D1S_NEFU\PROJECT\SCH_LIB\NEFU.OLB")
       (DeviceIndex "0"))
     (D1s
       (FullPartName "D1sH.Normal")
