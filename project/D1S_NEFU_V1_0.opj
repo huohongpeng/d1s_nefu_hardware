@@ -34,38 +34,24 @@
       (Path "Design Resources" ".\d1s_nefu_v1_0.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\sch_lib\nefu.olb")
-      (Select "Design Resources" "Library" ".\sch_lib\nefu.olb" "TYPEC_16PIN"))
+      (Select "Design Resources" "Library" ".\sch_lib\nefu.olb" "TYPEA_DIP"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 356 0 722"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 309 0 722"))
       (Tab 0))
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1518 28 744"))
+        (Placement "44 0 1 -1 -1 -8 -31 5 1565 28 744"))
       (Path "D:\VCS\D1S_NEFU\PROJECT\SCH_LIB\NEFU.OLB")
-      (Package "SY8089")
+      (Package "TYPEA_DIP")
       (PartType "1"))
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1518 28 744"))
-      (Path "D:\VCS\D1S_NEFU\PROJECT\SCH_LIB\NEFU.OLB")
-      (Package "SPI_NAND")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1518 28 744"))
-      (Path "D:\VCS\D1S_NEFU\PROJECT\SCH_LIB\NEFU.OLB")
-      (Package "HR911105A")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1518 28 744"))
+        (Placement "44 0 1 -1 -1 -8 -31 5 1565 28 744"))
       (Path "D:\VCS\D1S_NEFU\PROJECT\SCH_LIB\NEFU.OLB")
       (Package "TYPEC_16PIN")
       (PartType "1")))
