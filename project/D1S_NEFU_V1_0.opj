@@ -1,6 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[11/15/24]")
+  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[11/18/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -70,47 +70,71 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 347 0 722"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 586 0 937"))
       (Tab 0))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1048 28 744"))
-      (Path "D:\VCS\D1S_NEFU\PROJECT\SCH_LIB\NEFU.OLB")
-      (Package "TITLEBLOCKNEFU")
-      (PartType "0"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1048 28 744")
-        (Scroll "-31 -8")
-        (Zoom "82")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1588 28 959")
+        (Scroll "-155 -12")
+        (Zoom "107")
         (Occurrence "/"))
-      (Path "D:\VCS\D1S_NEFU\PROJECT\D1S_NEFU_V1_0.DSN")
+      (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
       (Page "00 Revision History"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1048 28 744")
-        (Scroll "-31 -8")
-        (Zoom "82")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1588 28 959")
+        (Scroll "-155 -12")
+        (Zoom "107")
         (Occurrence "/"))
-      (Path "D:\VCS\D1S_NEFU\PROJECT\D1S_NEFU_V1_0.DSN")
+      (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "03 POWER TREE"))
+      (Page "02 Block Diagram"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1048 28 744")
-        (Scroll "-31 -8")
-        (Zoom "82")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1588 28 959")
+        (Scroll "-155 -12")
+        (Zoom "107")
         (Occurrence "/"))
-      (Path "D:\VCS\D1S_NEFU\PROJECT\D1S_NEFU_V1_0.DSN")
+      (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "02 Block Diagram")))
-  (MPSSessionName "XJ0046")
+      (Page "03 POWER TREE"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1588 28 959"))
+      (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\SCH_LIB\NEFU.OLB")
+      (Package "OSC3225")
+      (PartType "1")))
+  (MPSSessionName "hhp")
   (PartMRUSelector
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OSC3225
+      (FullPartName "OSC3225.Normal")
+      (LibraryName
+         "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\SCH_LIB\NEFU.OLB")
+      (DeviceIndex "0"))
+    (XL/SM
+      (FullPartName "XL/SM.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (XM/SM
+      (FullPartName "XM/SM.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ZTB
+      (FullPartName "ZTB.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ZTA
+      (FullPartName "ZTA.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (SY8089
       (FullPartName "SY8089.Normal")
       (LibraryName "D:\VCS\D1S_NEFU\PROJECT\SCH_LIB\NEFU.OLB")
