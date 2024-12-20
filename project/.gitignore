@@ -7,3 +7,4 @@
 *.DBK
 *.col,*
 pcb_lib/signoise.run/
+allegro*AllegroMiniDump.dmp
