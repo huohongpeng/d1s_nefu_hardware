@@ -1,6 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[12/20/24]")
+  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[12/21/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -72,19 +72,20 @@
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\sch_lib\nefu.olb")
       (Path "Outputs")
-      (Select "Design Resources" ".\d1s_nefu_v1_0.dsn" "SCHEMATIC1" "04 USB"))
+      (Select "Design Resources" ".\d1s_nefu_v1_0.dsn" "SCHEMATIC1"
+         "08 STORAGE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 401 0 995"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 684 0 921"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 28 5 2113 28 1017")
-        (Scroll "-341 24")
-        (Zoom "120")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1830 28 943")
+        (Scroll "-176 0")
+        (Zoom "124")
         (Occurrence "/"))
       (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
@@ -92,9 +93,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 28 5 2113 28 1017")
-        (Scroll "-324 49")
-        (Zoom "123")
+        (Placement "44 0 1 -1 -1 5 28 5 1830 28 943")
+        (Scroll "-176 131")
+        (Zoom "124")
         (Occurrence "/"))
       (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
@@ -102,39 +103,19 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 28 5 2113 28 1017")
-        (Scroll "-324 49")
-        (Zoom "123")
+        (Placement "44 0 1 -1 -1 5 28 5 1830 28 943")
+        (Scroll "-287 -13")
+        (Zoom "105")
         (Occurrence "/"))
       (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "07 NET"))
+      (Page "05 AUDIO"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 28 5 2113 28 1017")
-        (Scroll "791 989")
-        (Zoom "246")
-        (Occurrence "/"))
-      (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "04 USB"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2113 28 1017")
-        (Scroll "-324 49")
-        (Zoom "123")
-        (Occurrence "/"))
-      (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "02 POWER TREE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2113 28 1017")
-        (Scroll "-376 -12")
-        (Zoom "114")
+        (Placement "44 0 1 -1 -1 5 28 5 1830 28 943")
+        (Scroll "-287 -13")
+        (Zoom "105")
         (Occurrence "/"))
       (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
@@ -142,30 +123,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2113 28 1017")
-        (Scroll "-324 49")
-        (Zoom "123")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1830 28 943")
+        (Scroll "-287 -13")
+        (Zoom "105")
         (Occurrence "/"))
       (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "06 DISPLAY"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2113 28 1017")
-        (Scroll "581 796")
-        (Zoom "228")
-        (Occurrence "/"))
-      (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "05 AUDIO"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2113 28 1017"))
-      (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\SCH_LIB\NEFU.OLB")
-      (Package "D1S")
-      (PartType "1")))
+      (Page "06 DISPLAY")))
   (MPSSessionName "hhp")
   (PartMRUSelector
     (CON40
