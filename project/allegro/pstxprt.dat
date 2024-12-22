@@ -1,0 +1,2239 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Dec-22-2024 at 13:38:59 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='D1S_NEFU_V1_0';
+ POST_TIME='Nov  3 2023 23:54:18';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS7925@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins7925@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins7925@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS23605@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins23605@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins23605@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS23621@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins23621@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins23621@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS24147@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins24147@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins24147@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS24173@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins24173@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins24173@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS24314@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins24314@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins24314@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS24340@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins24340@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins24340@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS26617@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins26617@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins26617@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_C0402_22PF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS8742@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins8742@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins8742@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_C0402_2.2NF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS21787@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins21787@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins21787@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS24599@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins24599@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins24599@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS7899@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins7899@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins7899@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS25345@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins25345@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins25345@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS25371@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins25371@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins25371@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS22300@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins22300@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins22300@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS22556@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins22556@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins22556@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS22582@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins22582@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins22582@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS24923@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins24923@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins24923@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_C0402_22PF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS10407@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins10407@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins10407@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_C0402_15PF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS10371@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins10371@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins10371@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_C0402_15PF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS10389@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins10389@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins10389@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_C0402_22PF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS10425@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins10425@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins10425@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_C0402_22PF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS7822@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins7822@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins7822@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_C0402_1NF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS14433@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins14433@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins14433@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS60861@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins60861@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins60861@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS60835@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins60835@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins60835@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS60683@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins60683@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins60683@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS96689@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins96689@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins96689@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS96705@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins96705@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins96705@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS96727@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins96727@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins96727@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS67278@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins67278@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins67278@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS67294@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins67294@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins67294@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS67262@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins67262@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins67262@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS14117@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins14117@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins14117@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP NP_C0603_2.2UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS89818@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins89818@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins89818@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS88709@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins88709@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins88709@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS92719@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins92719@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins92719@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP NP_C0603_0.47UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS93258@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins93258@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins93258@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP NP_C0402_33PF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS88677@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins88677@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins88677@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS91784@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins91784@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins91784@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS88693@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins88693@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins88693@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS91800@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins91800@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins91800@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS93068@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins93068@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins93068@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP NP_C0603_2.2UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS92703@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins92703@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins92703@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS8682@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins8682@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins8682@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS88613@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins88613@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins88613@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP POL_SMD_CAP660_100UF-6.3V':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS90423@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins90423@discrete.\cap pol.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins90423@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP POL_SMD_CAP660_100UF-6.3V':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS90449@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins90449@discrete.\cap pol.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins90449@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS88629@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins88629@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins88629@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS88645@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins88645@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins88645@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS158868@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins158868@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page7_ins158868@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C56 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS158884@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins158884@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page7_ins158884@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C57 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS158900@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins158900@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page7_ins158900@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C58 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS158916@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins158916@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page7_ins158916@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP NP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS140234@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins140234@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins140234@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS8666@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins8666@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins8666@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS140250@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins140250@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins140250@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C61 'CAP NP_C0402_12PF/NC':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS133454@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins133454@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins133454@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C62 'CAP NP_C0402_12PF/NC':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS133470@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins133470@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins133470@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C63 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS140579@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins140579@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins140579@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C64 'CAP NP_C0402_22NF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS130063@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins130063@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins130063@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C65 'CAP NP_C0402_22NF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS130047@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins130047@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins130047@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C66 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS138169@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins138169@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins138169@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C67 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS138153@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins138153@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins138153@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C68 'CAP NP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS136482@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins136482@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins136482@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C69 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS136498@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins136498@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins136498@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS25678@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins25678@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins25678@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C70 'CAP NP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS136514@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins136514@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins136514@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C71 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS136530@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins136530@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins136530@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C72 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS215373@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins215373@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins215373@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C73 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS102375@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins102375@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins102375@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C74 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS102391@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins102391@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins102391@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C75 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS102343@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins102343@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins102343@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C76 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS102359@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins102359@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins102359@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C77 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS180578@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins180578@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins180578@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C78 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS195957@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins195957@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins195957@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C79 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS195973@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins195973@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins195973@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS25694@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins25694@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins25694@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C80 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS195989@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins195989@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins195989@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C81 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS196005@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins196005@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins196005@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C82 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS196021@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins196021@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins196021@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C83 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS196037@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins196037@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins196037@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C84 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS196053@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins196053@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins196053@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C85 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS196069@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins196069@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins196069@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C86 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS196085@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins196085@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins196085@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS23589@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins23589@discrete.\cap np.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins23589@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_SOD123_B5819':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS12504@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins12504@discrete.\diode.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins12504@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_SOD123_B5819':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS63685@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins63685@discrete.\diode.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins63685@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE_DO-214AC_SS24':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS58333@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins58333@discrete.\diode.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins58333@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS58308@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins58308@discrete.\led.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins58308@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'DIODE_DO-214AC_SS24':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS65240@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins65240@discrete.\diode.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins65240@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS188509@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins188509@discrete.\led.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins188509@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'TYPEC_16PIN_TYPEC_SMD_16P_TYPEC_16PIN':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS58046@NEFU.TYPEC_16PIN.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins58046@nefu.\typec_16pin.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins58046@nefu.\typec_16pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'TYPEA_DIP_TYPEA_DIP_TYPEA_DIP':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS96599@NEFU.TYPEA_DIP.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins96599@nefu.\typea_dip.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins96599@nefu.\typea_dip.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'TYPEC_16PIN_TYPEC_SMD_16P_TYPEC_16PIN':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS57984@NEFU.TYPEC_16PIN.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins57984@nefu.\typec_16pin.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins57984@nefu.\typec_16pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'PJ-342E_PJ-342B_PJ-342B':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS88289@NEFU.PJ-342E.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins88289@nefu.\pj-342e.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins88289@nefu.\pj-342e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'FPC_26PIN_FPC_05_26P_FPC_26PIN':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS176270@NEFU.FPC_26PIN.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins176270@nefu.\fpc_26pin.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page7_ins176270@nefu.\fpc_26pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'CON40_PIN40_2_54_CON40':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS209041@NEFU.CON40.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins209041@nefu.\con40.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page7_ins209041@nefu.\con40.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'TF_CARD_TF_SMD_TF_CARD':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS101709@NEFU.TF_CARD.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins101709@nefu.\tf_card.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins101709@nefu.\tf_card.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'FPC_24PIN_FPC_05_24P_FPC_24PIN':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS179295@NEFU.FPC_24PIN.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins179295@nefu.\fpc_24pin.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins179295@nefu.\fpc_24pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_L3012_2.2UH':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS7873@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins7873@discrete.\inductor.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins7873@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_L3012_2.2UH':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS8602@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins8602@discrete.\inductor.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins8602@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_R0402_240R-1%':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS13282@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins13282@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins13282@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_R0402_510R':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS14408@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins14408@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins14408@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_R0402_51K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS60730@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins60730@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins60730@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS61437@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins61437@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins61437@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS60758@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins60758@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins60758@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS60714@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins60714@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins60714@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_R0402_51K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS63723@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins63723@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins63723@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS96665@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins96665@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins96665@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS96751@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins96751@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins96751@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_R0402_3.3K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS66132@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins66132@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins66132@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS67892@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins67892@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins67892@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS8050@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins8050@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins8050@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS67908@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins67908@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins67908@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS88734@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins88734@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins88734@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS92328@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins92328@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins92328@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_R0402_1M':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS90763@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins90763@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins90763@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS90479@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins90479@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins90479@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_R0402_22R':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS91222@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins91222@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins91222@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_R0402_22R':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS91238@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins91238@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins91238@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS90641@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins90641@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins90641@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_R0402_22R':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS133669@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins133669@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins133669@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS134376@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins134376@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins134376@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_R0402_450K-1%':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS7848@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins7848@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins7848@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS128941@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins128941@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins128941@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_R0402_510R':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS129072@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins129072@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins129072@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_R0402_1.5K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS139135@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins139135@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins139135@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_R0402_4.7K/NC':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS136230@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins136230@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins136230@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS140554@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins140554@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins140554@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS129280@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins129280@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins129280@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_R0402_510R':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS129300@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins129300@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins129300@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_R0402_2.49K-1%':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS128796@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins128796@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins128796@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS101764@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins101764@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins101764@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS103952@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins103952@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins103952@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_R0402_100K-1%':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS7797@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins7797@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins7797@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS101361@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins101361@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins101361@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_R0402_51K-1%':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS164809@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins164809@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins164809@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS164825@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins164825@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins164825@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_R0402_6.8K-1%':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS164845@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins164845@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins164845@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R_R0402_8.2K-1%':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS164861@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins164861@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins164861@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'R_R0402_10K-1%':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS164877@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins164877@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins164877@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'R_R0402_11K-1%':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS164893@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins164893@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins164893@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'R_R0402_13K-1%':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS164909@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins164909@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins164909@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS102175@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins102175@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins102175@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'R_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS102056@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins102056@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins102056@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_R0402_47K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS9087@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins9087@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins9087@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'R_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS188493@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins188493@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins188493@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'R_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS185656@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins185656@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins185656@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'R_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS180072@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins180072@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins180072@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'R_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS180056@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins180056@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins180056@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS180553@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins180553@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins180553@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS180454@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins180454@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins180454@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_R0402_100K-1%':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS8706@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins8706@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins8706@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS8650@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins8650@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins8650@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_R0402_200K-1%':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS8766@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins8766@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins8766@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_R0402_47K':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS14392@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins14392@discrete.\r.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins14392@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'KEY_KEY4X3_RESET':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS16811@NEFU.KEY.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins16811@nefu.\key.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins16811@nefu.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'KEY_KEY4X3_FEL':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS103976@NEFU.KEY.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins103976@nefu.\key.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins103976@nefu.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'KEY_KEY4X3_KEY':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS165019@NEFU.KEY.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins165019@nefu.\key.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins165019@nefu.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW4 'KEY_KEY4X3_KEY':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS164999@NEFU.KEY.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins164999@nefu.\key.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins164999@nefu.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW5 'KEY_KEY4X3_KEY':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS165039@NEFU.KEY.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins165039@nefu.\key.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins165039@nefu.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW6 'KEY_KEY4X3_KEY':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS165059@NEFU.KEY.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins165059@nefu.\key.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins165059@nefu.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW7 'KEY_KEY4X3_KEY':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS165079@NEFU.KEY.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins165079@nefu.\key.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins165079@nefu.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW8 'KEY_KEY4X3_KEY':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS184695@NEFU.KEY.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins184695@nefu.\key.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins184695@nefu.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS206480@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins206480@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins206480@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T10 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS205402@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins205402@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins205402@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T11 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS205345@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins205345@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins205345@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T12 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS205392@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins205392@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins205392@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T13 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS205496@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins205496@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins205496@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T14 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS206039@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins206039@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins206039@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T15 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS205960@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins205960@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins205960@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T16 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS206075@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins206075@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins206075@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T17 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS205248@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins205248@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins205248@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T18 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS205258@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins205258@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins205258@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T19 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS205268@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins205268@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins205268@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T2 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS206490@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins206490@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins206490@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T20 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS205108@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins205108@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins205108@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T21 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS205118@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins205118@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins205118@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T22 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS205128@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins205128@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins205128@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T23 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS205190@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins205190@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins205190@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T24 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS204787@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins204787@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins204787@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T25 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS204777@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins204777@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins204777@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T26 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS204767@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins204767@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins204767@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T27 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS204757@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins204757@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins204757@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T28 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS204724@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins204724@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins204724@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T29 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS205033@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins205033@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins205033@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T3 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS206500@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins206500@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins206500@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T30 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS204901@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins204901@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins204901@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T31 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS204917@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins204917@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins204917@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T32 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS204933@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins204933@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins204933@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T33 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS198454@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins198454@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins198454@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T34 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS198468@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins198468@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins198468@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T35 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS198482@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins198482@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins198482@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T36 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS204501@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins204501@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins204501@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T37 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS204584@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins204584@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins204584@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T38 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS204511@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins204511@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins204511@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T39 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS204688@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins204688@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins204688@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T4 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS206510@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins206510@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins206510@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T5 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS206718@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins206718@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins206718@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T6 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS206520@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins206520@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins206520@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T7 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS206728@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins206728@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins206728@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T8 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS206530@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins206530@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins206530@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T9 'TESTPOINT_TP10_TEST':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS206738@NEFU.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins206738@nefu.\testpoint.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins206738@nefu.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'SY8089_SOT23-5_SY8089':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS7717@NEFU.SY8089.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins7717@nefu.\sy8089.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins7717@nefu.\sy8089.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'TLV743P_SOT23-5_TLV74315':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS195749@NEFU.TLV743P.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins195749@nefu.\tlv743p.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins195749@nefu.\tlv743p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'TLV743P_SOT23-5_TLV74328':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS195779@NEFU.TLV743P.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins195779@nefu.\tlv743p.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins195779@nefu.\tlv743p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'D1S_ELQFP128_D1S':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS10101@NEFU.D1SA.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins10101@nefu.\d1sa.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins10101@nefu.\d1sa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS58846@NEFU.D1SB.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins58846@nefu.\d1sb.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins58846@nefu.\d1sb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS58969@NEFU.D1SC.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins58969@nefu.\d1sc.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins58969@nefu.\d1sc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS57803@NEFU.D1SD.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins57803@nefu.\d1sd.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins57803@nefu.\d1sd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS55915@NEFU.D1SE.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins55915@nefu.\d1se.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins55915@nefu.\d1se.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS98112@NEFU.D1SF.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins98112@nefu.\d1sf.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page6_ins98112@nefu.\d1sf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+SECTION_NUMBER 7
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS57612@NEFU.D1SG.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins57612@nefu.\d1sg.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page7_ins57612@nefu.\d1sg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='G';
+
+SECTION_NUMBER 8
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS58555@NEFU.D1SH.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins58555@nefu.\d1sh.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page10_ins58555@nefu.\d1sh.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='H';
+
+PART_NAME
+ U3 'SY8089_SOT23-5_SY8089':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS8580@NEFU.SY8089.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins8580@nefu.\sy8089.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins8580@nefu.\sy8089.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'SY6280_SOT23-5_SY6280':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS58163@NEFU.SY6280.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins58163@nefu.\sy6280.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins58163@nefu.\sy6280.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'SY6280_SOT23-5_SY6280':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS96577@NEFU.SY6280.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins96577@nefu.\sy6280.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins96577@nefu.\sy6280.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'CH340N_SOP-8_CH340N':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS57854@NEFU.CH340N.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins57854@nefu.\ch340n.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page5_ins57854@nefu.\ch340n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'RTL8201F_QFN32_RTL8201F':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS56595@NEFU.RTL8201F.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins56595@nefu.\rtl8201f.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins56595@nefu.\rtl8201f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'HR911105A_HR911105A_HR911105A':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS56478@NEFU.HR911105A.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins56478@nefu.\hr911105a.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins56478@nefu.\hr911105a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'SPI_NAND_WSON8_SPI_NAND':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS79803@NEFU.SPI_NAND.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins79803@nefu.\spi_nand.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page9_ins79803@nefu.\spi_nand.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'OSC3225_CRYSTAL3225_24M':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS10291@NEFU.OSC3225.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins10291@nefu.\osc3225.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins10291@nefu.\osc3225.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYSTAL_CRYSTAL3215_32768':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS10324@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins10324@discrete.\crystal.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page4_ins10324@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y3 'OSC3225_CRYSTAL3225_25M/NC':;
+
+SECTION_NUMBER 1
+ '@D1S_NEFU_V1_0.SCHEMATIC1(SCH_1):INS133412@NEFU.OSC3225.NORMAL(CHIPS)':
+ C_PATH='@d1s_nefu_v1_0.schematic1(sch_1):ins133412@nefu.\osc3225.normal\(chips)',
+ P_PATH='@d1s_nefu_v1_0.schematic1(sch_1):page8_ins133412@nefu.\osc3225.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

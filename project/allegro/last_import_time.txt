@@ -1,0 +1,8 @@
+2024-12-22T13:43:17 ===> "C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstchip.dat"
+2024-12-22T13:43:17 ===> "C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstxnet.dat"
+2024-12-22T13:43:17 ===> "C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstxprt.dat"
+2024-12-22T13:43:17 ===> "C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstdmlmodels.dat"
+2024-12-22T16:42:38 ===> "C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstchip.dat"
+2024-12-22T16:42:38 ===> "C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstxnet.dat"
+2024-12-22T16:42:38 ===> "C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstxprt.dat"
+2024-12-22T16:42:38 ===> "C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstdmlmodels.dat"
