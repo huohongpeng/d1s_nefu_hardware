@@ -1,6 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[12/24/24]")
+  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[01/14/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -92,26 +92,29 @@
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\sch_lib\nefu.olb")
       (Path "Outputs")
-      (Select "Design Resources" ".\d1s_nefu_v1_0.dsn" "SCHEMATIC1"))
+      (Select "Design Resources" ".\d1s_nefu_v1_0.dsn" "SCHEMATIC1" "03 SYSTEM"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 885"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 935"))
       (Tab 0))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 907"))
-      (Path
-         "C:\Users\hhp\Desktop\d1s_nefu_hardware\project\allegro\pstchip.dat")
-      (Scroll "0"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 907")
-        (Scroll "-69 165")
-        (Zoom "129")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 957")
+        (Scroll "318 361")
+        (Zoom "168")
+        (Occurrence "/"))
+      (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "03 SYSTEM"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 957")
+        (Scroll "813 723")
+        (Zoom "214")
         (Occurrence "/"))
       (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
@@ -119,9 +122,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 907")
-        (Scroll "-69 114")
-        (Zoom "129")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 957")
+        (Scroll "0 445")
+        (Zoom "214")
         (Occurrence "/"))
       (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
@@ -129,9 +132,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 907")
-        (Scroll "-233 -11")
-        (Zoom "101")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 957")
+        (Scroll "-198 -11")
+        (Zoom "107")
         (Occurrence "/"))
       (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
@@ -139,9 +142,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 907")
-        (Scroll "-69 178")
-        (Zoom "129")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 957")
+        (Scroll "-198 -11")
+        (Zoom "107")
         (Occurrence "/"))
       (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
@@ -149,9 +152,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 907")
-        (Scroll "-69 107")
-        (Zoom "129")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 957")
+        (Scroll "42 481")
+        (Zoom "168")
         (Occurrence "/"))
       (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
@@ -159,20 +162,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 907")
-        (Scroll "-69 94")
-        (Zoom "129")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 957")
+        (Scroll "-198 -11")
+        (Zoom "107")
         (Occurrence "/"))
       (Path "C:\USERS\HHP\DESKTOP\D1S_NEFU_HARDWARE\PROJECT\D1S_NEFU_V1_0.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "09 CAMERA"))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 28 907"))
-      (Path
-         "C:\Users\hhp\Desktop\d1s_nefu_hardware\project\allegro\pstxnet.dat")
-      (Scroll "0")))
+      (Page "09 CAMERA")))
   (MPSSessionName "hhp")
   (PartMRUSelector
     (CON40

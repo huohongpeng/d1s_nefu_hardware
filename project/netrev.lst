@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : D1S_NEFU_V1_0.brd                             )
 (    Software Version : 17.4S039                                      )
-(    Date/Time        : Tue Dec 24 08:17:54 2024                      )
+(    Date/Time        : Tue Jan 14 08:31:56 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,12 +22,12 @@ Design Directory:            'C:/Users/hhp/Desktop/d1s_nefu_hardware/project'
 Old design name:             'C:/Users/hhp/Desktop/d1s_nefu_hardware/project/D1S_NEFU_V1_0.brd'
 New design name:             'C:/Users/hhp/Desktop/d1s_nefu_hardware/project/D1S_NEFU_V1_0.brd'
 
-CmdLine: netrev -$ -i C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro -y 1 -h -q netrev_constraint_report.xml C:/Users/hhp/Desktop/d1s_nefu_hardware/project/#Taaaaal08116.tmp
+CmdLine: netrev -$ -i C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro -y 1 -h -q netrev_constraint_report.xml C:/Users/hhp/Desktop/d1s_nefu_hardware/project/#Taaaaaq00704.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstchip.dat 
-   Finished reading C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstchip.dat (00:00:00.02)
+   Finished reading C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstchip.dat (00:00:00.01)
 Starting to read C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstxprt.dat 
    Finished reading C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstxprt.dat (00:00:00.00)
 Starting to read C:/Users/hhp/Desktop/d1s_nefu_hardware/project/allegro/pstxnet.dat 
@@ -62,7 +62,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Dec 24 8:17:54 2024
+netrev run on Jan 14 8:31:56 2025
    DESIGN NAME : 'D1S_NEFU_V1_0'
    PACKAGING ON Nov  3 2023 23:54:18
 
@@ -87,6 +87,6 @@ netrev run on Dec 24 8:17:54 2024
  No oversight detected
  No warning detected
 
-cpu time      0:01:09
-elapsed time  0:00:01
+cpu time      0:00:43
+elapsed time  0:00:00
 

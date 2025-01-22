@@ -1,0 +1,84 @@
+source $TELENV
+
+### User Preferences section
+### This section is computer generated.
+### Please do not modify to the end of the file.
+### Place your hand edits above this section.
+###
+unset no_etch_shape_display
+unset no_shape_fill_dyn_ood
+unset no_shape_fill
+set padstack_editor_new_accuracy = 4
+set padstack_editor_new_units = millimeters
+set psmpath = $psmpath C:/Users/hhp/Desktop/d1s_nefu_hardware/project/pcb_lib
+set padpath = $padpath C:/Users/hhp/Desktop/d1s_nefu_hardware/project/pcb_lib
+
+alias F2 done
+alias F3 angle 90
+alias F4 move
+alias F5 copy 
+alias F6 change
+alias F7 swap components
+alias F9 spin
+alias F10 waive drc
+alias g testprep manual
+alias SF1 swap components
+alias SF2 swap functions
+alias SF3 swap pins
+alias Esc cancel
+
+
+alias ~A toggle
+alias ~O open
+alias ~S save
+alias ~N new
+
+# View Control
+alias Insert add connect
+alias End redisplay
+alias Pgup zoom in
+alias Pgdown zoom out
+alias Home slide
+alias Del delete
+
+# New funckey
+funckey q show element
+funckey w custom smooth
+funckey e spread between voids
+funckey r reject
+funckey t delay tune
+# funckey t pop route_from_target
+funckey y redo
+funckey u undo
+funckey i zoom in
+funckey o zoom out
+
+funckey a add connect
+funckey s slide
+funckey d delete
+funckey j  dehilight
+funckey G "define grid; setwindow form.grid"
+funckey h assign color
+funckey f show measure
+
+
+funckey 8 options line_width 8
+funckey 2 Options Line_Width 20
+funckey 4 Options Line_Width 4
+funckey 5 Options Line_Width 5
+
+funckey z oops
+funckey l pop swap
+funckey c pop cut
+funckey v vertex
+funckey b dbdoctor
+funckey n next
+funckey m mirror
+
+funckey lt "setwindow form.mini; FORM mini alt_subclass TOP"
+funckey l4 "setwindow form.mini; FORM mini alt_subclass ISL4"
+funckey l3 "setwindow form.mini; FORM mini alt_subclass ISL3"
+funckey lb "setwindow form.mini; FORM mini alt_subclass BOTTOM"
+funckey + subclass -+
+funckey - subclass --
+

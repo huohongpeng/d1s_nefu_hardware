@@ -8,6 +8,7 @@
 *.col,*
 pcb_lib/signoise.run/
 allegro*AllegroMiniDump.dmp
-eco.txt
+eco.txt*
 signoise.run/
+allegro/last_import_time.txt
 
